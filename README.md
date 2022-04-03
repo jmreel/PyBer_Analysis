@@ -23,6 +23,7 @@ A ride-sharing app company wanted their rideshare data analyze. The projected ne
       - Suburban: $ 19,356
       - Urban: $ 39,854.38
 
+### Dissimilarity
 The ride-sharing data shows that there is a difference in location. There are less rides and drivers in rural populations, but this leads to higher fares. Urban populations have more rides and drivers, creating lower fare amount. 
 
 ## Summary
